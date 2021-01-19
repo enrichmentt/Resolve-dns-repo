@@ -1,0 +1,14 @@
+cdn.redhat.com
+public-yum.oracle.com
+repo.postgrespro.ru
+repo.zabbix.com
+copr-be.cloud.fedoraproject.org
+download.docker.com
+download.tarantool.org
+repoee.postgrespro.ru
+mirror.yandex.ru
+packages.cloud.google.com
+repo.mongodb.org
+ftp.altlinux.org
+hub.docker.com
+ibm.com
